@@ -1,4 +1,4 @@
-Extending Slate Based OpenMRS RestAPI Documentation
+OpenMRS Android Client 3.0.x
 ------------------------------------------
 
 ***Google Summer of Code, 2021 @[OpenMRS](https://github.com/openmrs)***
