@@ -11,7 +11,10 @@ OpenMRS Android Client 3.0.x
 
 * Community Thread for discussion on the project on OpenMRS Talk [here](https://talk.openmrs.org/t/making-openmrs-android-client-easily-customizable/31799).
 
-### Community Bonding Phase and before that
+<br>
+
+### 0. Community Bonding Phase and before that
+
 
 |    JIRA Issue     |      Raised Issue Link    |      Status        |
 |-------------------|---------------------------|--------------------|
@@ -57,5 +60,14 @@ OpenMRS Android Client 3.0.x
 
 
 
+### 1. Week 1
+
+|    JIRA Issue     |      Raised PR Link    |      Status        |
+|-------------------|---------------------------|--------------------|
+|AC-914|https://github.com/openmrs/openmrs-contrib-android-client/pull/900|Under-Review|
+|AC-920|https://github.com/openmrs/openmrs-contrib-android-client/pull/899|Under-Review|
+|AC-918|https://github.com/openmrs/openmrs-contrib-android-client/pull/898|Merged|
+|AC-919|https://github.com/openmrs/openmrs-contrib-android-client/pull/897|Merged|
+|AC-891|https://github.com/openmrs/openmrs-contrib-android-client/pull/896|In-Progress|
 
 
