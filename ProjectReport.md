@@ -70,4 +70,16 @@ OpenMRS Android Client 3.0.x
 |AC-919|https://github.com/openmrs/openmrs-contrib-android-client/pull/897|Merged|
 |AC-891|https://github.com/openmrs/openmrs-contrib-android-client/pull/896|In-Progress|
 
+### 2. Week 2
+
+|    JIRA Issue     |      Raised PR Link    |      Status        |
+|-------------------|---------------------------|--------------------|
+|AC-925|https://github.com/openmrs/openmrs-contrib-android-client/pull/904|Under-Review|
+|AC-924|https://github.com/openmrs/openmrs-contrib-android-client/pull/903|Under-Review|
+|AC-911|https://github.com/openmrs/openmrs-contrib-android-client/pull/902|Under-Review|
+|AC-912|https://github.com/openmrs/openmrs-contrib-android-client/pull/901|Under-Review|
+|AC-914|https://github.com/openmrs/openmrs-contrib-android-client/pull/900|Merged|
+|AC-920|https://github.com/openmrs/openmrs-contrib-android-client/pull/899|Merged|
+|AC-891|https://github.com/openmrs/openmrs-contrib-android-client/pull/896|In-Progress|
+
 
