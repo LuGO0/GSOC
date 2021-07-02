@@ -94,3 +94,25 @@ OpenMRS Android Client 3.0.x
 |AC-911|https://github.com/openmrs/openmrs-contrib-android-client/pull/902|Merged|
 |AC-912|https://github.com/openmrs/openmrs-contrib-android-client/pull/901|Merged|
 |AC-891|https://github.com/openmrs/openmrs-contrib-android-client/pull/896|In-Progress|
+
+
+### 4. Week 4
+
+|    JIRA Issue     |      Raised PR Link    |      Status        |
+|-------------------|---------------------------|--------------------|
+|AC-982|https://github.com/openmrs/openmrs-contrib-android-client/pull/914|Under-Review|
+|AC-985|https://github.com/openmrs/openmrs-contrib-android-client/pull/913|In-Progress|
+|AC-984|https://github.com/openmrs/openmrs-contrib-android-client/pull/912|Under-Review|
+|AC-983|https://github.com/openmrs/openmrs-contrib-android-client/pull/911|Merged|
+|AC-864|https://github.com/openmrs/openmrs-contrib-android-client/pull/910|Merged|
+|AC-923|https://github.com/openmrs/openmrs-contrib-android-client/pull/909|Merged|
+|AC-921|https://github.com/openmrs/openmrs-contrib-android-client/pull/908|Merged|
+|AC-916|https://github.com/openmrs/openmrs-contrib-android-client/pull/907|Merged|
+|AC-922|https://github.com/openmrs/openmrs-contrib-android-client/pull/906|Merged|
+|AC-915|https://github.com/openmrs/openmrs-contrib-android-client/pull/905|Merged|
+|AC-891|https://github.com/openmrs/openmrs-contrib-android-client/pull/896|In-Progress|
+
+
+
+
+
