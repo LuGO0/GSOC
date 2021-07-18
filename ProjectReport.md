@@ -122,6 +122,18 @@ OpenMRS Android Client 3.0.x
 |AC-891|https://github.com/openmrs/openmrs-contrib-android-client/pull/896|In-Progress|
 |AC-968/AC-969/AC-970|https://github.com/openmrs/openmrs-contrib-android-client/pull/891|Merged(@amerSalah)|
 
+### 6. Week 6
+
+|    JIRA Issue     |      Raised PR Link    |      Status        |
+|-------------------|---------------------------|--------------------|
+|AC-985|https://github.com/openmrs/openmrs-contrib-android-client/pull/913|Under-Review|
+|AC-891|https://github.com/openmrs/openmrs-contrib-android-client/pull/896|In-Progress|
+
+|    index    |      Created Repository    |      Information        |
+|-------------------|---------------------------|--------------------|
+|1.|https://github.com/LuGO0/OpenmrsAndroid|Created this repository for publishing the jitpack library for test|
+|2.|https://github.com/LuGO0/testApplication| Made this test application to test the functionality for published library|
+
 
 
 
