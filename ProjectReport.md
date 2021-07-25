@@ -135,5 +135,22 @@ OpenMRS Android Client 3.0.x
 |2.|https://github.com/LuGO0/testApplication| Made this test application to test the functionality for published library|
 
 
+### 7. Week 7
+
+|    JIRA Issue     |      Raised PR Link    |      Status        |
+|-------------------|---------------------------|--------------------|
+|AC-985|https://github.com/openmrs/openmrs-contrib-android-client/pull/9|Merged|
+|AC-985|https://github.com/openmrs/openmrs-contrib-android-client/pull/913|Merged|
+|AC-891|https://github.com/openmrs/openmrs-contrib-android-client/pull/896|merged|
+
+
+|    JIRA Issue     |      Raised PR Link    |      Task Description  |
+|-------------------|---------------------------|--------------------|
+|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/981|Documented the Visit Repository|
+
+
+
+
+
 
 
