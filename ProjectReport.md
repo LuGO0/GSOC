@@ -148,6 +148,15 @@ OpenMRS Android Client 3.0.x
 |-------------------|---------------------------|--------------------|
 |AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/981|Documented the Visit Repository|
 
+### 8. Week 8
+
+
+|    JIRA Issue     |      Commit Id    |      Task Description  |
+|-------------------|---------------------------|--------------------|
+|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/896/commits/e0f222c52f66d241b8cd32c0df5fb4c340c8857b| 1. Documented the worker section </br> 2. Documented the Dao package|
+|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/896/commits/9d8f3cde23fba56f8b074401908010289cf782ea | 1. Added JavaDocs for the repository package |
+
+
 
 
 
