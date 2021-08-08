@@ -13,6 +13,26 @@ OpenMRS Android Client 3.0.x
 
 <br>
 
+## Weekly Blogs
+
+
+|    Week     |      Blog Link   |
+|-------------------|---------------------|
+|Week 0|https://lug0.medium.com/week-0-gsoc-with-openmrs-4d94ccd6c648|
+|Week 1|https://lug0.medium.com/week-1-gsoc-with-openmrs-ad16f5b02f4a|
+|Week 2|https://lug0.medium.com/week-2-gsoc-with-openmrs-93199d874801|
+|Week 3|https://lug0.medium.com/week-3-gsoc-with-openmrs-2c884a097376|
+|Week 4|https://lug0.medium.com/week-4-gsoc-with-openmrs-99ed4b143899|
+|Week 5|https://lug0.medium.com/week-5-gsoc-with-openmrs-72e60142ed7d|
+|Week 6|https://lug0.medium.com/week-6-gsoc-with-openmrs-32cb581a0f2b|
+|Week 7|https://lug0.medium.com/week-7-gsoc-with-openmrs-51d0b58a0e00|
+|Week 8|https://lug0.medium.com/week-8-gsoc-with-openmrs-4f71f01e05f1|
+|Week 9|https://lug0.medium.com/week-9-gsoc-with-openmrs-aa2adedc0fc6|
+|Week 10|-|
+
+
+
+
 ### 0. Community Bonding Phase and before that
 
 
@@ -155,6 +175,28 @@ OpenMRS Android Client 3.0.x
 |-------------------|---------------------------|--------------------|
 |AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/896/commits/e0f222c52f66d241b8cd32c0df5fb4c340c8857b| 1. Documented the worker section </br> 2. Documented the Dao package|
 |AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/896/commits/9d8f3cde23fba56f8b074401908010289cf782ea | 1. Added JavaDocs for the repository package |
+
+
+### 9. Week 9
+
+|    JIRA Issue     |      Commit Id    |      Task Description  |
+|-------------------|---------------------------|--------------------|
+|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/896/commits/c58ece28e274cd53f549e9365e5ce340aa4cedbc| 1. Updated the ReadMe section
+|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/commit/20507aed0b0cb60540d738a3f0df6ac85fae0af1 | 1. Made a seperate branch for deployment |
+
+|    Work Done     |      Relevant Link   |
+|-------------------|---------------------|
+|Wrote article on getting started with the sdk| https://wiki.openmrs.org/display/docs/Small+Application+using+the+Openmrs-Android-sdk|
+
+
+### 10. Week 10
+
+
+
+
+
+
+
 
 
 
