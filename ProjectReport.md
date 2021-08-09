@@ -186,7 +186,7 @@ OpenMRS Android Client 3.0.x
 
 |    Work Done     |      Relevant Link   |
 |-------------------|---------------------|
-|Wrote article on getting started with the sdk| https://wiki.openmrs.org/display/docs/Small+Application+using+the+Openmrs-Android-sdk|
+|Wrote article on getting started with the sdk| https://wiki.openmrs.org/display/docs/Getting+Started+with+openmrs-android-sdk|
 
 
 ### 10. Week 10
