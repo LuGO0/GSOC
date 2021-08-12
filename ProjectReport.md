@@ -173,16 +173,16 @@ OpenMRS Android Client 3.0.x
 
 |    JIRA Issue     |      Commit Id    |      Task Description  |
 |-------------------|---------------------------|--------------------|
-|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/896/commits/e0f222c52f66d241b8cd32c0df5fb4c340c8857b| 1. Documented the worker section </br> 2. Documented the Dao package|
-|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/896/commits/9d8f3cde23fba56f8b074401908010289cf782ea | 1. Added JavaDocs for the repository package |
+|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/896/commits/471c9d07c75facc68ee52e2bde154d68aa072047| 1. Documented the worker section </br> 2. Documented the Dao package|
+|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/896/commits/471c9d07c75facc68ee52e2bde154d68aa072047 | 1. Added JavaDocs for the repository package |
 
 
 ### 9. Week 9
 
 |    JIRA Issue     |      Commit Id    |      Task Description  |
 |-------------------|---------------------------|--------------------|
-|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/896/commits/c58ece28e274cd53f549e9365e5ce340aa4cedbc| 1. Updated the ReadMe section
-|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/commit/20507aed0b0cb60540d738a3f0df6ac85fae0af1 | 1. Made a seperate branch for deployment |
+|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/896/commits/43017413edb62c2fd506e4da9e8ed89ea2eb8dc2| 1. Updated the ReadMe section
+|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/896/commits/de21b1e10bb63ec0abc2371a8de30ac58a77f4bf | 1. Made a seperate branch for deployment |
 
 |    Work Done     |      Relevant Link   |
 |-------------------|---------------------|
