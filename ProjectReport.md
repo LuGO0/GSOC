@@ -28,7 +28,7 @@ OpenMRS Android Client 3.0.x
 |Week 7|https://lug0.medium.com/week-7-gsoc-with-openmrs-51d0b58a0e00|
 |Week 8|https://lug0.medium.com/week-8-gsoc-with-openmrs-4f71f01e05f1|
 |Week 9|https://lug0.medium.com/week-9-gsoc-with-openmrs-aa2adedc0fc6|
-|Week 10|-|
+|Week 10|https://lug0.medium.com/week-10-gsoc-with-openmrs-6473f5f29f8|
 
 
 
@@ -190,18 +190,16 @@ OpenMRS Android Client 3.0.x
 
 
 ### 10. Week 10
+|    JIRA Issue     |      Commit Id    |      Task Description  |
+|-------------------|---------------------------|--------------------|
+|AC-981|https://github.com/openmrs/openmrs-contrib-android-client/pull/896|Merged :P|
 
+The Whole Encapsulation PR got testd and Merged this Week In addtion of [version 3.0.0](https://github.com/openmrs/openmrs-contrib-android-client/releases/tag/v3.0.0) releases for the openmrs-android-client.
 
+## Future Work
 
-
-
-
-
-
-
-
-
-
-
-
-
+1. Rectifying the pipeline for the google play store.
+2. Migration of Whole codebase to Kotlin.
+3. Work closely with any Implementer to get the client customized and deployed.
+4. Addition of more modules to the android client.
+5. Setting up atleast a monthly call with community members for Android-Client-Project.
