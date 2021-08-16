@@ -196,6 +196,8 @@ OpenMRS Android Client 3.0.x
 
 The Whole Encapsulation PR got testd and Merged this Week In addtion of [version 3.0.0](https://github.com/openmrs/openmrs-contrib-android-client/releases/tag/v3.0.0) releases for the openmrs-android-client.
 
+[Final Presentation](https://talk.openmrs.org/t/gsoc-2021-openmrs-android-client-3-0-x-final-presentation/34405)
+
 ## Future Work
 
 1. Rectifying the pipeline for the google play store.
